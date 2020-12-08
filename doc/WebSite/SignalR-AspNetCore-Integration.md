@@ -31,7 +31,7 @@ Then use the **AddSignalR** and **UseSignalR** methods in your Startup class:
             public void ConfigureServices(IServiceCollection services)
             {
                 services.AddSignalR();
-            }
+            }fsd
     
             public void Configure(IApplicationBuilder app)
             {
